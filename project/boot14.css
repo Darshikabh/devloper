@@ -1,0 +1,68 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+ol
+{
+    list-style-type: none;
+}
+.wtch
+{
+    padding: 0px;
+}
+.wtchban
+{
+    margin: 0px;
+}
+.innerleft
+{
+    display: inline-flex;
+    padding: 10px;
+}
+.lbl
+{
+    padding: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.right
+{
+    padding: 0px;
+}
+.innerright
+{
+    display: inline-flex;
+    padding: 10px;
+}
+.smttv
+{
+    width: 300px;
+    height: 235px;
+    margin-left: 150px;
+}
+.txt
+{
+    bottom: 90px;
+}
+.icn
+{
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.ft
+{
+    background-color: #369;
+    color: white;
+    padding: 20px;
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 26pxh;
+}
+.btnsub
+{
+    border-color: transparent;
+    background-color: black;
+    color: white;
+}
