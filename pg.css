@@ -1,0 +1,146 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.logo
+{
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+.logo-img
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.text
+{
+    margin-left: 10px;
+    margin-top: 7px;
+    color: blue;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.nav-icon
+{
+    height: 30px;
+    width: 30px;
+}
+.nav-icons
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 70px;
+}
+.nav-sign
+{
+    display: flex;
+}
+.sign-hover
+{
+    text-decoration: none;
+}
+.box
+{
+    height: 60px;
+    width: 98%;
+    background-color: rgb(195, 195, 240);
+    margin-left: 12px;
+    border-radius: 9px;
+    display: flex;
+}
+.box-icon
+{
+    display: flex;
+}
+.box-icons
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.box-text
+{
+    margin-left: 5px;
+    margin-top: 15px;
+    color: rgb(63, 52, 113);
+}
+.room-text
+{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(214, 159, 198);
+}
+.room-pic
+{
+    height: 300px;
+    width: 99%;
+    border: 2px solid #7f5858;
+    margin-left: 5px;
+    display: flex;
+}
+.ami-room
+{
+    display: flex;
+    margin-left: 60px;
+}
+.ami-cont
+{
+    box-sizing: border-box;
+    text-align: center;
+    color: #9f9160;
+    font-size: large;
+    border: 1px solid #7f5858;
+    margin-left: 50px;
+}
+.services
+{
+    background-color: rgb(59, 95, 119);
+    height: 950px;
+}
+.service
+{
+    display: flex;
+}
+.service-item
+{
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    font-size: large;
+    margin-left: 55px;
+}
+.insti
+{
+    height: 370px;
+}
+.insti-text
+{
+    text-align: center;
+    font-size: 20px;
+    color: #9f9160;
+}
+.ul1
+{
+    margin-left: 500px;
+    word-spacing: 5px;
+}
+li
+{
+    margin: 10px;
+    color: rgb(41, 71, 71);
+}
+#contact
+{
+    background-color: rgb(59, 95, 119);
+    color: rgb(214, 159, 198);
+    text-align: center;
+    text-transform: capitalize;
+    height: 400px;
+    padding-top: 30px;
+}

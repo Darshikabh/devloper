@@ -1,0 +1,43 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+form
+{
+    height: 590px;
+    width: 500px;
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 7px;
+    margin-left: 28%;
+    margin-top: 2%;
+}
+.l1
+{
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+}
+.cont
+{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.for
+{
+    margin-left: 330px;
+}
+.text
+{
+    text-align: center;
+}
+.check
+{
+    display: flex;
+    margin-left: 100px;
+}
+.sign-hover
+{
+    text-decoration: none;
+}
